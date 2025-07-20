@@ -1,4 +1,14 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/QlikSense-0082D5?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=marcosramos26&color=0e75b6" alt="Profile views"/>
 </p>
 
@@ -67,12 +77,6 @@ Atualmente, busco oportunidades como **Analista de Dados Júnior**, onde eu poss
 
 ---
 
-## 🌍 Idiomas
-
-- **Inglês** – Intermediário
-
----
-
 ## 📂 Projetos
 
 - [Previsão de Vendas – Supermercado](https://github.com/marcosramos26/Previs-o-Vendas-SuperMercado)  
@@ -91,18 +95,6 @@ Atualmente, busco oportunidades como **Analista de Dados Júnior**, onde eu poss
 - [LinkedIn](https://www.linkedin.com/in/marcosorreia/)  
 - 📧 marcsdavi26@gmail.com  
 - 🌐 [Portfólio](https://sites.google.com/view/marcoscorreia/projetos)
-
----
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/QlikSense-0082D5?style=flat-square&logo=qlik&logoColor=white" alt="Qlik Sense"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
 
 <p align="center">
   Sempre em evolução. Sempre com dados. 🚀
