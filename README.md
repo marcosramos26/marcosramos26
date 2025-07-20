@@ -75,8 +75,9 @@ Atualmente, busco oportunidades como **Analista de Dados Júnior**, onde eu poss
 
 ## 📫 Vamos nos conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/marcosramos26)  
-- 📧 marcos.ramos@email.com
+- [LinkedIn](https://www.linkedin.com/in/marcosorreia/)  
+- 📧 marcsdavi26@gmail.com  
+- 🌐 [Portfólio](https://sites.google.com/view/marcoscorreia/projetos)
 
 <p align="center">
   Sempre em evolução. Sempre com dados. 🚀
