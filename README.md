@@ -2,59 +2,82 @@
   <img src="https://komarev.com/ghpvc/?username=marcosramos26&color=0e75b6" alt="Profile views"/>
 </p>
 
-# Olá! Eu sou o Marcos Ramos 👋
+# 👋 Sobre mim
 
-Sou **Estudante de Ciência de Dados** na UniAmérica e **Estagiário de Inteligência de Dados**, apaixonado por transformar dados em insights acionáveis e soluções de negócio escaláveis. Com dedicação a cada linha de código e a cada análise, busco excelência técnica e clareza na comunicação dos resultados.
+Olá! Meu nome é **Marcos Ramos**, tenho 23 anos e sou de Salvador, Bahia.  
+Sou estudante de **Ciência de Dados** na Faculdade UniAmérica (conclusão em março/2026) e atualmente atuo como **Estagiário de Inteligência de Dados** no Atakarejo.
 
----
+No meu dia a dia, trabalho com **Excel, Power BI, Qlik Sense, SQL e Python**, desenvolvendo dashboards e análises que otimizam processos, apoiam a tomada de decisão e geram economia real para a empresa. Também participo de projetos estratégicos e automações que impactam diretamente a operação.
 
-## 🚀 Áreas de Atuação
-
-- **Análise de Dados & BI**  
-  Power BI, Excel Avançado, SQL, ETL e Data Cleaning  
-- **Data Science & Machine Learning**  
-  Python (Pandas, NumPy, Scikit‑learn), Modelagem Estatística, Validação de Modelos  
-- **Visualização & Storytelling**  
-  Matplotlib, Seaborn, dashboards interativos e relatórios de impacto  
+Antes disso, fui **Jovem Aprendiz no Atacadão Centro Sul**, com foco em rotinas administrativas, logística e compras, onde desenvolvi habilidades sólidas de organização, comunicação e trabalho em equipe.
 
 ---
 
-## 🎯 Projetos em Destaque
+## 🚀 O que estou buscando
 
-| Projeto                                             | Descrição                                                                                 | Tecnologias                          |
-| --------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------ |
-| **Análise de Suicídios (CDC 1917–2016)**            | Estudo detalhado de taxas por faixa etária, gênero e países; insights para políticas de saúde pública. | Python, Pandas, Matplotlib           |
-| **Previsão de Vendas em Supermercado**              | Modelo preditivo de vendas baseado em séries temporais e regressão; dashboard interativo.  | Python, Scikit‑learn, Power BI       |
-| **Dashboard de Indicadores de Marketing Digital**   | Painel que consolida métricas de tráfego, conversão e ROI para tomadas de decisão ágeis.   | Power BI, DAX, SQL                   |
+Atualmente, busco oportunidades como **Analista de Dados Júnior**, onde eu possa aplicar meus conhecimentos técnicos e continuar evoluindo com projetos voltados para **análise de dados, inteligência de negócios e automação de processos**.
 
 ---
 
-## 🛠 Ferramentas e Tecnologias
+## 🧠 Principais Habilidades
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-</p>
-
----
-
-## 📚 Formação e Certificações
-
-- **Bacharelado em Ciência de Dados** – UniAmérica (conclusão em Março/2026)  
-- **Certificação “Excel do Básico ao Avançado”** – Excel Inovador  
-- **Workshops & Cursos**: Análise Estatística, ETL com Python, Deep Learning introdutório
+- **Excel Avançado** – Fórmulas, dashboards dinâmicos, automações e modelagem de dados  
+- **Power BI** – Desenvolvimento de relatórios e visualizações interativas  
+- **Python (Pandas, NumPy)** – Limpeza, transformação e análise automatizada de dados  
+- **SQL** – Consultas, extração e manipulação de dados em bases relacionais  
+- **Qlik Sense** – Desenvolvimento de dashboards e relatórios gerenciais  
+- **Data Cleaning & ETL** – Processamento e padronização de dados para garantir qualidade  
+- **Análise & Visualização de Dados** – Geração de insights e apoio à decisão estratégica  
+- **Pacote Office** – Domínio de Word, PowerPoint e Excel  
+- **Trabalho em Equipe** – Colaboração com áreas diversas, boa comunicação e foco em resultados
 
 ---
 
-## ✉️ Contato
+## 💼 Experiência Profissional
 
-- 🔗 LinkedIn: [linkedin.com/in/marcosramos26](https://www.linkedin.com/in/marcosramos26)  
-- 📧 E-mail: marcos.ramos@email.com
+### Estagiário em Inteligência de Dados | Oficial Atakarejo  
+📍 Salvador/BA | ⏳ 09/2024 – Atual  
+- Criação de dashboards estratégicos (Power BI, Excel, Qlik Sense)  
+- Manipulação de dados com Python e SQL  
+- Apoio em projetos de otimização e automação de rotinas  
+- Geração de insights para tomada de decisão e controle de indicadores
+
+### Jovem Aprendiz | Atacadão Centro Sul  
+📍 Salvador/BA | ⏳ 10/2018 – 10/2020  
+- Suporte administrativo e logístico  
+- Organização de documentos e planilhas  
+- Atendimento interno e externo  
+- Desenvolvimento de habilidades interpessoais e operacionais
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Ciência de Dados** – UniAmérica (2023–2026)
+
+---
+
+## 📚 Cursos Complementares
+
+- Cientista de Dados – Udemy  
+- Analista de Dados – Hashtag Programação  
+- Desenvolvedor Full-Stack – Senai  
+- Power BI – Senai  
+- Excel Avançado – Udemy
+
+---
+
+## 🌍 Idiomas
+
+- **Inglês** – Intermediário
+
+---
+
+## 📫 Vamos nos conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/marcosramos26)  
+- 📧 marcos.ramos@email.com
 
 <p align="center">
-  Obrigado pela visita ao meu perfil! Vamos conectar? 🤝
+  Sempre em evolução. Sempre com dados. 🚀
 </p>
