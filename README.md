@@ -73,15 +73,27 @@ Atualmente, busco oportunidades como **Analista de Dados Júnior**, onde eu poss
 
 ---
 
+## 📂 Projetos
+
+- [Previsão de Vendas – Supermercado](https://github.com/marcosramos26/Previs-o-Vendas-SuperMercado)  
+  Modelo de machine learning para prever vendas baseado em dados históricos e sazonais.
+
+- [Previsão de Preço de Carro](https://github.com/marcosramos26/ML-Previs-o_Pre-o_Carro)  
+  Regressão para estimar preços de veículos a partir de múltiplas variáveis.
+
+- [Análise Avançada de Taxas de Suicídio (1985–2016)](https://github.com/marcosramos26/Advanced-data-analysis-of-Suicide-Rates-Overview-1985-to-2016)  
+  Estudo detalhado com visualizações e insights sobre dados históricos de suicídio.
+
+---
+
 ## 📫 Vamos nos conectar?
 
 - [LinkedIn](https://www.linkedin.com/in/marcosorreia/)  
 - 📧 marcsdavi26@gmail.com  
 - 🌐 [Portfólio](https://sites.google.com/view/marcoscorreia/projetos)
 
-<p align="center">
-  Sempre em evolução. Sempre com dados. 🚀
-</p>
+---
+
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI"/>
@@ -90,4 +102,8 @@ Atualmente, busco oportunidades como **Analista de Dados Júnior**, onde eu poss
   <img src="https://img.shields.io/badge/QlikSense-0082D5?style=flat-square&logo=qlik&logoColor=white" alt="Qlik Sense"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+<p align="center">
+  Sempre em evolução. Sempre com dados. 🚀
 </p>
