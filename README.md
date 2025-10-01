@@ -74,6 +74,7 @@ Atualmente, busco oportunidades como **Analista de Dados Júnior**, onde eu poss
 - Desenvolvedor Full-Stack – Senai  
 - Power BI – Senai  
 - Excel Avançado – Udemy
+- Microsoft Power BI Para Business Intelligence e Data Science ‒ Data Science Academy
 
 ---
 
