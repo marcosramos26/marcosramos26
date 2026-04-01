@@ -1,102 +1,189 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/QlikSense-0082D5?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<div align="center">
+
+<!-- HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1D9E75&height=180&section=header&text=Marcos%20Ramos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Process%20Automation&descAlignY=58&descSize=16&descColor=9FE1CB"/>
+
+<!-- BADGES DE STATUS -->
+<p>
+  <a href="https://www.linkedin.com/in/marcosorreia/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marcsdavi26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://sites.google.com/view/marcoscorreia/projetos">
+    <img src="https://img.shields.io/badge/Portfólio-1D9E75?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
+  <img src="https://img.shields.io/badge/Salvador,_BA-Brasil-0f6e56?style=for-the-badge&logo=google-maps&logoColor=white" alt="Localização"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcosramos26&color=0e75b6" alt="Profile views"/>
-</p>
+<!-- CONTADOR DE VISITAS -->
+<img src="https://komarev.com/ghpvc/?username=marcosramos&color=1D9E75&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
-# 👋 Sobre mim
-
-Olá! Meu nome é **Marcos Ramos**, tenho 23 anos e sou de Salvador, Bahia.  
-Sou estudante de **Ciência de Dados** na Faculdade UniAmérica (conclusão em março/2026) e atualmente atuo como **Estagiário de Inteligência de Dados** no Atakarejo.
-
-No meu dia a dia, trabalho com **Excel, Power BI, Qlik Sense, SQL e Python**, desenvolvendo dashboards e análises que otimizam processos, apoiam a tomada de decisão e geram economia real para a empresa. Também participo de projetos estratégicos e automações que impactam diretamente a operação.
-
-Antes disso, fui **Jovem Aprendiz no Atacadão Centro Sul**, com foco em rotinas administrativas, logística e compras, onde desenvolvi habilidades sólidas de organização, comunicação e trabalho em equipe.
+</div>
 
 ---
 
-## 🚀 O que estou buscando
+## 👨‍💻 Sobre mim
 
-Atualmente, busco oportunidades como **Analista de Dados Júnior**, onde eu possa aplicar meus conhecimentos técnicos e continuar evoluindo com projetos voltados para **análise de dados, inteligência de negócios e automação de processos**.
+```python
+marcos = {
+    "cargo":      "Analista de Dados & BI @ Atakarejo",
+    "localidade": "Salvador, BA 🌊",
+    "foco":       ["Automação de Processos", "Business Intelligence", "Data Analytics"],
+    "impacto":    {
+        "economia_gerada":        "R$ 5,5 milhões em redução de despesas",
+        "redução_desperdício":    "36% menos desperdício de alimentos",
+        "usuários_impactados":    "200+ colaboradores/mês",
+        "relatórios_automatizados": "100% do processo manual eliminado"
+    },
+    "formação":   "Ciência de Dados — Descomplica UniAmérica (Mai/2026)",
+    "missão":     "Transformar dados em decisões e processos em eficiência 🚀"
+}
+```
 
 ---
 
-## 🧠 Principais Habilidades
+## 🚀 Impacto em Números
 
-- **Excel Avançado** – Fórmulas, dashboards dinâmicos, automações e modelagem de dados  
-- **Power BI** – Desenvolvimento de relatórios e visualizações interativas  
-- **Python (Pandas, NumPy)** – Limpeza, transformação e análise automatizada de dados  
-- **SQL** – Consultas, extração e manipulação de dados em bases relacionais  
-- **Qlik Sense** – Desenvolvimento de dashboards e relatórios gerenciais  
-- **Data Cleaning & ETL** – Processamento e padronização de dados para garantir qualidade  
-- **Análise & Visualização de Dados** – Geração de insights e apoio à decisão estratégica  
-- **Pacote Office** – Domínio de Word, PowerPoint e Excel  
-- **Trabalho em Equipe** – Colaboração com áreas diversas, boa comunicação e foco em resultados
+<div align="center">
+
+| 💰 Redução de Despesas | ♻️ Corte no Desperdício | 🤖 Automação de Relatórios | ⏱️ Redução de Tempo |
+|:---:|:---:|:---:|:---:|
+| **R$ 5,5 milhões** | **36%** | **100% manual → zero** | **3h → 10 minutos** |
+| vs. ano anterior | alimentos em refeitórios | envio segmentado por cargo | apuração de Troco Solidário |
+
+</div>
+
+---
+
+## 🛠️ Stack Tecnológica
+
+<div align="center">
+
+**Avançado**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
+
+**Intermediário**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+**ERPs & Sistemas**
+
+![TOTVS](https://img.shields.io/badge/TOTVS-E30613?style=for-the-badge&logoColor=white)
+![Paytrack](https://img.shields.io/badge/Paytrack-1D9E75?style=for-the-badge&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
 
 ---
 
 ## 💼 Experiência Profissional
 
-### Estagiário em Inteligência de Dados | Oficial Atakarejo  
-📍 Salvador/BA | ⏳ 09/2024 – Atual  
-- Criação de dashboards estratégicos (Power BI, Excel, Qlik Sense)  
-- Manipulação de dados com Python e SQL  
-- Apoio em projetos de otimização e automação de rotinas  
-- Geração de insights para tomada de decisão e controle de indicadores
+### 🏢 Atakarejo · Salvador, BA
 
-### Jovem Aprendiz | Atacadão Centro Sul  
-📍 Salvador/BA | ⏳ 10/2018 – 10/2020  
-- Suporte administrativo e logístico  
-- Organização de documentos e planilhas  
-- Atendimento interno e externo  
-- Desenvolvimento de habilidades interpessoais e operacionais
+<details open>
+<summary><strong>🔹 Assistente de Gestão — Dados e Automação</strong> &nbsp;|&nbsp; Nov/2025 – Atual</summary>
 
----
+<br>
 
-## 🎓 Formação Acadêmica
+> Gerenciamento de despesas operacionais da rede com impacto direto na estratégia financeira da diretoria e presidência.
 
-- **Ciência de Dados** – UniAmérica (2023–2026)
+**Principais Entregas:**
 
----
+- 💰 **R$ 5,5 milhões** em redução de despesas em 2025 vs 2024 — mesmo com expansão para novas lojas na Bahia e Sergipe
+- 🧳 **Implementação completa do Paytrack** (Travel & Expense) para 200+ colaboradores/mês, resultando em **-33% nas despesas de viagem em 2026**
+- 📊 **Dashboard Orçado vs. Realizado** para despesas corporativas com identificação de setores de maior economia
+- 🤖 **Automação de envio de relatórios** segmentado por cargo (Gerentes Gerais → sua loja | Distritais → visão consolidada | Diretoria → panorama geral) — processo anteriormente 100% manual
+- 📋 **Apresentações mensais** para diretoria com indicadores gerenciais de despesas de viagem (GMD)
+- 📑 **Criação de POPs e diretrizes** para padronização, rastreabilidade e conformidade em auditorias
 
-## 📚 Cursos Complementares
+</details>
 
-- Cientista de Dados – Udemy  
-- Analista de Dados – Hashtag Programação  
-- Desenvolvedor Full-Stack – Senai  
-- Power BI – Senai  
-- Excel Avançado – Udemy
-- Microsoft Power BI Para Business Intelligence e Data Science ‒ Data Science Academy
+<details>
+<summary><strong>🔹 Estagiário em Inteligência de Dados</strong> &nbsp;|&nbsp; Set/2024 – Out/2025</summary>
 
----
+<br>
 
-## 📂 Projetos
+> Desenvolvimento de soluções de BI e automação para operações em 50+ lojas.
 
-- [Previsão de Vendas – Supermercado](https://github.com/marcosramos26/Previs-o-Vendas-SuperMercado)  
-  Modelo de machine learning para prever vendas baseado em dados históricos e sazonais.
+**Projetos de Impacto:**
 
-- [Previsão de Preço de Carro](https://github.com/marcosramos26/ML-Previs-o_Pre-o_Carro)  
-  Regressão para estimar preços de veículos a partir de múltiplas variáveis.
+- ♻️ **Dashboard de Controle de Desperdício** (50+ lojas): análise de causa raiz por unidade com **redução de 36%** no desperdício de alimentos
+- 🏷️ **Dashboard de Marca Própria**: acompanhamento do processo de produção, prazos, status por etapa e volume de vendas mensais
+- 💳 **Planilha Automatizada de Troco Solidário**: apuração por loja, distrito e operador — **de 3 horas para ~10 minutos**
+- 🌱 **Planilha de Pesagem de Doações**: monitoramento de engajamento ESG por unidade
+- 👥 **People Analytics — Backup de Vagas**: cruzamento automático entre talentos em treinamento e lojas críticas
+- 📤 **Automação de relatórios comerciais** com envio diário em PDF filtrado por perfil de destinatário
 
-- [Análise Avançada de Taxas de Suicídio (1985–2016)](https://github.com/marcosramos26/Advanced-data-analysis-of-Suicide-Rates-Overview-1985-to-2016)  
-  Estudo detalhado com visualizações e insights sobre dados históricos de suicídio.
+</details>
 
 ---
 
-## 📫 Vamos nos conectar?
+## 🎓 Formação & Certificações
 
-- [LinkedIn](https://www.linkedin.com/in/marcosorreia/)  
-- 📧 marcsdavi26@gmail.com  
-- 🌐 [Portfólio](https://sites.google.com/view/marcoscorreia/projetos)
+```
+📚 Graduação em Ciência de Dados          Descomplica UniAmérica  |  Previsão: Mai/2026
+   Foco: Estatística, Python, Machine Learning e Big Data
 
-<p align="center">
-  Sempre em evolução. Sempre com dados. 🚀
-</p>
+🏆 Power BI para Business Intelligence    Data Science Academy
+📊 Excel Avançado                          Excel Inovador
+💻 Desenvolvedor Full-Stack               SENAI
+```
+
+---
+
+## 🌱 Projeto de Extensão — ONG
+
+> Desenvolvimento de **dashboard com KPIs estratégicos** para uma ONG, estruturando uma base de dados para apoiar a tomada de decisão da equipe gestora — conectando dados com impacto social real.
+
+---
+
+## 📊 Conceitos & Metodologias
+
+<div align="center">
+
+`Business Intelligence` &nbsp;·&nbsp; `KPIs` &nbsp;·&nbsp; `Automação de Processos` &nbsp;·&nbsp; `PDCA` &nbsp;·&nbsp; `5W2H` &nbsp;·&nbsp; `Diagrama de Ishikawa` &nbsp;·&nbsp; `ESG` &nbsp;·&nbsp; `People Analytics`
+
+</div>
+
+---
+
+## 🌐 Idiomas
+
+| Idioma | Nível |
+|--------|-------|
+| 🇧🇷 Português | Nativo |
+| 🇺🇸 Inglês | Intermediário (leitura técnica e documentação) |
+
+---
+
+## 📫 Vamos Conversar?
+
+<div align="center">
+
+<p>Estou sempre aberto a novas oportunidades, colaborações e projetos desafiadores.</p>
+
+[![LinkedIn](https://img.shields.io/badge/Me_chama_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosorreia/)
+[![Email](https://img.shields.io/badge/Manda_um_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcsdavi26@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Veja_meu_portfólio-1D9E75?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/marcoscorreia/projetos)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0f6e56&height=120&section=footer&animation=fadeIn"/>
+
+</div>
