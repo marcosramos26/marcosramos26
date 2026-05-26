@@ -1,14 +1,14 @@
 <!-- HEADER ANIMADO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=300&section=header&text=Marcos%20Ramos&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=00d4ff&desc=Analista%20de%20Dados%20%7C%20BI%20%7C%20Automação%20de%20Processos&descAlignY=62&descSize=20&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=300&section=header&text=Marcos%20Ramos&fontSize=72&fontAlignY=40&animation=fadeIn&fontColor=00d4ff" />
 
 </div>
 
 <div align="center">
 
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=R%24+5%2C5M+em+despesas+reduzidas+em+2025.;36%25+de+corte+no+desperdício+de+alimentos.;200%2B+colaboradores+impactados+por+automações.;100%25+de+fluxos+manuais+automatizados.;Dado+bom+é+dado+que+gera+decisão." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Dados%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20BI;R%245%2C5M%2B%20em%20despesas%20reduzidas;200%2B%20usu%C3%A1rios%20impactados;Transformando%20dados%20em%20decis%C3%B5es" />
 </a>
 
 </div>
@@ -18,7 +18,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosorreia/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Ver%20Projetos-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sites.google.com/view/marcoscorreia/projetos)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20Projetos-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://sites.google.com/view/marcoscorreia/projetos)
 [![Email](https://img.shields.io/badge/Email-marcsdavi26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcsdavi26@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-marcosramos26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosramos26)
 
@@ -100,7 +100,7 @@ marcos_ramos = {
 
 ## `$ projects --featured`
 
-### 🤖 RPA & Automação
+### 🤖 Automação & RPA
 
 <table>
   <tr>
@@ -115,19 +115,50 @@ marcos_ramos = {
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/RPA-FF6C37?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
       </p>
     </td>
     <td width="50%">
       <h3 align="center">⏱️ Automação de Escala de Operadores</h3>
       <p align="center">
-        <a href="https://github.com/marcosramos26/automacao-escala-operadores">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosramos26&repo=automacao-escala-operadores&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=00d4ff" />
+        <a href="https://github.com/marcosramos26/operator-shift-automation">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosramos26&repo=operator-shift-automation&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=00d4ff" />
         </a>
       </p>
       <p align="center">Script Python para eliminar a montagem manual de escalas complexas de operadores — economizando horas de trabalho repetitivo.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Automação-00d4ff?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📄 Financial Document Automation</h3>
+      <p align="center">
+        <a href="https://github.com/marcosramos26/financial-document-automation">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosramos26&repo=financial-document-automation&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=00d4ff" />
+        </a>
+      </p>
+      <p align="center">Automação inteligente para processamento de faturas financeiras, alocação de custos e geração de protocolos em Excel.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PDF-FF4B4B?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+        <img src="https://img.shields.io/badge/Openpyxl-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎯 Paytrack Architecture Case Study</h3>
+      <p align="center">
+        <a href="https://github.com/marcosramos26/paytrack-architecture-case">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosramos26&repo=paytrack-architecture-case&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=00d4ff" />
+        </a>
+      </p>
+      <p align="center">Documentação da arquitetura e implantação da plataforma Paytrack para 200+ usuários e R$ 5,5M em economia.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Case%20Study-00d4ff?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/Paytrack-0066FF?style=flat-square&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -138,62 +169,29 @@ marcos_ramos = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📦 Controle de Viagens com SQL</h3>
+      <h3 align="center">🛫 Travel Analysis Dashboard</h3>
       <p align="center">
-        <a href="https://github.com/marcosramos26/controle-viagens-sql">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosramos26&repo=controle-viagens-sql&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=00d4ff" />
+        <a href="https://github.com/marcosramos26/travel-analysis-wholesale">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosramos26&repo=travel-analysis-wholesale&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=00d4ff" />
         </a>
       </p>
-      <p align="center">Modelagem relacional e análise de dados para controle de despesas e viagens corporativas.</p>
+      <p align="center">Dashboard interativo de análise de despesas de viagem no setor atacadista — 33% redução em custos implementada.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🗄️ Travel Management with SQL</h3>
+      <p align="center">
+        <a href="https://github.com/marcosramos26/travel-management-sql">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosramos26&repo=travel-management-sql&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=00d4ff" />
+        </a>
+      </p>
+      <p align="center">Modelagem relacional e análise de dados para governança e controle de despesas corporativas de viagem.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-        <img src="https://img.shields.io/badge/BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 Previsão de Vendas — Varejo</h3>
-      <p align="center">
-        <a href="https://github.com/marcosramos26/Previs-o-Vendas-SuperMercado">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosramos26&repo=Previs-o-Vendas-SuperMercado&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=00d4ff" />
-        </a>
-      </p>
-      <p align="center">Modelagem preditiva com Machine Learning para estimar volume de vendas no setor supermercadista.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML-FF4B4B?style=flat-square&logo=scikitlearn&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 🧠 Machine Learning
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🫀 ML: Insuficiência Cardíaca</h3>
-      <p align="center">
-        <a href="https://github.com/marcosramos26/ML-insufici-ncia-card-aca">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosramos26&repo=ML-insufici-ncia-card-aca&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=00d4ff" />
-        </a>
-      </p>
-      <p align="center">Modelo de classificação para identificar padrões de risco cardíaco — onde dados salvam vidas.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Scikit--Learn-FF4B4B?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Classificação-00d4ff?style=flat-square&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">☕ Previsão de Vendas de Café</h3>
-      <p align="center">
-        <a href="https://github.com/marcosramos26/coffee-sales-prediction">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcosramos26&repo=coffee-sales-prediction&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00d4ff&icon_color=00d4ff" />
-        </a>
-      </p>
-      <p align="center">Análise exploratória e modelo preditivo do desempenho de vendas de café — EDA + ML end-to-end.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -205,14 +203,14 @@ marcos_ramos = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosramos26&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=c9d1d9&icon_color=00d4ff&title_color=00d4ff&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosramos26&layout=compact&theme=github_dark&bg_color=0d1117&text_color=c9d1d9&title_color=00d4ff&hide_border=true&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosramos26&show_icons=true&theme=github_dark&bg_color=0d1117&text_color=c9d1d9&icon_color=00d4ff&title_color=00d4ff&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosramos26&layout=compact&theme=github_dark&bg_color=0d1117&text_color=c9d1d9&title_color=00d4ff&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosramos26&theme=github-dark-blue&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=888888&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosramos26&theme=github-dark-blue&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff" />
 
 </div>
 
@@ -230,7 +228,7 @@ marcos_ramos = {
 2018 ──────────────────────────────────────────────────────────────── 2026
   │                                                                     │
   ▼                                                                     ▼
-[Okt/2018]           [Set/2024]               [Nov/2025]         [Mai/2026]
+[Out/2018]           [Set/2024]               [Nov/2025]         [Mai/2026]
 Jovem Aprendiz   →  Estagiário BI        →   Analista de    →   Graduação
 Atacadão           Atakarejo                  Dados              Ciência de
 Centro Sul         Dashboard Desperdício      R$5,5M reduzidos   Dados 🎓
